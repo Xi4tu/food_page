@@ -1,5 +1,5 @@
 # Food Page🌮
-- link: xi4tu.github.io/food_page/
+- Link: https://xi4tu.github.io/food_page/
 - Web to get more experience using React and Tailwind
 - Design made using Figma
 - Responsive
